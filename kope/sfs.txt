@@ -1,0 +1,3 @@
+for i in range(10): print("faszkope"); exec("for n in range(100): print(i)")
+
+print("nigaaa")
